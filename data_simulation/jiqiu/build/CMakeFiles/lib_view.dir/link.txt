@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib_view.a  CMakeFiles/lib_view.dir/view_modify_data/main.cpp.o CMakeFiles/lib_view.dir/view_modify_data/drv_set_query.cpp.o
+/usr/bin/ranlib liblib_view.a

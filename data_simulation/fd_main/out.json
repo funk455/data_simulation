@@ -1,0 +1,45 @@
+{
+    "gpio": {
+        "gpio1": {
+            "direction": "out",
+            "value": 9
+        },
+        "gpio7": {
+            "direction": "in",
+            "value": 8
+        },
+        "gpio8": {
+            "direction": "in",
+            "value": 8
+        }
+    },
+    "adc": {
+        "in1_input": 2,
+        "in2_input": 9,
+        "in5_input": 2
+    },
+    "usart": {
+        "ttys2": {
+            "path": "/dev/ttys2",
+            "baud": "115200",
+            "looptime": 2
+        }
+    },
+    "can": {
+        "can1": {
+            "path": "/dev/ttys1",
+            "baud": "9600",
+            "looptime": 2
+        },
+        "can2": {
+            "path": "/dev/ttys3",
+            "baud": "115200",
+            "looptime": 3
+        },
+        "can8": {
+            "path": "/dev/ttys1",
+            "baud": "115200",
+            "looptime": 2
+        }
+    }
+}

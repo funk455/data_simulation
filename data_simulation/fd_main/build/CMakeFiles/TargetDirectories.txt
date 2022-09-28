@@ -1,0 +1,3 @@
+/home/oem/Desktop/project/fd_main/build/CMakeFiles/rebuild_cache.dir
+/home/oem/Desktop/project/fd_main/build/CMakeFiles/edit_cache.dir
+/home/oem/Desktop/project/fd_main/build/CMakeFiles/main.dir

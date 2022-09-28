@@ -1,0 +1,60 @@
+{
+    "gpio": {
+        "gpio1": {
+            "direction": "in",
+            "value": 21
+        },
+        "gpio1214": {
+            "direction": "out",
+            "value": 1
+        },
+        "gpio55": {
+            "direction": "out",
+            "value": 1
+        },
+        "gpio99": {
+            "direction": "out",
+            "value": 1
+        }
+    },
+    "adc": {
+        "in0_input": 1,
+        "in1_input": 1125,
+        "in2_input": 2,
+        "in3_input": 3,
+        "in4_input": 4,
+        "in5_input": 5,
+        "in6_input": 6,
+        "in7_input": 7,
+        "in8_input": 1125
+    },
+    "usart": {
+        "ttys0": {
+            "path": "/home",
+            "baud": "",
+            "looptime": -1
+        },
+        "ttys3": {
+            "path": "huang",
+            "baud": "88",
+            "looptime": 2
+        }
+    },
+    "can": {
+        "can0": {
+            "path": "/home/huang/sim_root/can/candump-2021-01-24_111714.log",
+            "baud": "",
+            "looptime": -1
+        },
+        "can21": {
+            "path": "/home/huang/sim_root/can/candump-2021-01-24_111714.log",
+            "baud": "",
+            "looptime": -1
+        },
+        "can33": {
+            "path": "huang",
+            "baud": "99",
+            "looptime": 1
+        }
+    }
+}

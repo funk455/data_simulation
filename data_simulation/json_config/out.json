@@ -1,0 +1,24 @@
+{
+    "gpio": {
+        "gpio8": {
+            "direction": "in",
+            "value": 7
+        },
+        "gpio9": {
+            "direction": "out",
+            "value": 9
+        }
+    },
+    "adc": {
+        "in15_input": 2,
+        "in1_input": 15
+    },
+    "usart": {},
+    "can": {
+        "can1": {
+            "path": "can1",
+            "baud": "115200",
+            "looptime": 2
+        }
+    }
+}

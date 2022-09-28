@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -g  -rdynamic CMakeFiles/view_modify.dir/view_modify_data/main.cpp.o CMakeFiles/view_modify.dir/view_modify_data/drv_set_query.cpp.o  -o view_modify  ../json_config/libdev_json.a 

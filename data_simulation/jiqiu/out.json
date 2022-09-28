@@ -1,0 +1,24 @@
+{
+    "gpio": {
+        "gpio1": {
+            "direction": "out",
+            "value": 20
+        },
+        "gpio3": {
+            "direction": "out",
+            "value": 2
+        },
+        "gpio8": {
+            "direction": "out",
+            "value": 2
+        }
+    },
+    "adc": {
+        "in1_input": 57,
+        "in2_input": 57,
+        "in3_input": 57,
+        "in8_input": 57
+    },
+    "usart": {},
+    "can": {}
+}

@@ -1,0 +1,12 @@
+{
+    "gpio": {},
+    "adc": {},
+    "usart": {},
+    "can": {
+        "can-1": {
+            "path": "/home/huang/111/candump-2021-01-24_111714.log",
+            "baud": "",
+            "looptime": -1
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "gpio" : [
+        8, 9, 10
+    ],
+    "adc" : [
+        0, 1 , 2, 4
+    ],
+    "usart" : {
+        "ttyS0" : 
+        {
+           "path" : "path of the file",
+            "baud" : "115200",
+            "looptime" : "-1"
+        }
+    },
+    "can" :{
+        "0":{
+           "path" : "file of the playback",
+           "looptime" : "-1"
+        }, 
+        "1":{
+            "path" : "file of the playback",
+            "looptime" : "-1"
+        } 
+    }
+}
